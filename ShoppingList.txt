@@ -5,3 +5,4 @@ oranges
 pineapple
 honeydew
 watermelon
+cereal
